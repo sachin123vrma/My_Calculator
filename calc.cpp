@@ -10,11 +10,11 @@ int sub(int x, int y) {
 }
 
 int div(int x, int y) {
-	return 0;
+	return (x / y);
 }
 
 int mul(int x, int y) {
-	return (x * y);
+	return 0;
 }
 
 int main()
