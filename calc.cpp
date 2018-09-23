@@ -2,7 +2,7 @@
 using namespace std;
 
 int add(int x, int y) {
-	return 0;
+	return (x + y);
 }
 
 int sub(int x, int y) {
@@ -14,7 +14,7 @@ int div(int x, int y) {
 }
 
 int mul(int x, int y) {
-	return 0;
+	return (x * y);
 }
 
 int main()
